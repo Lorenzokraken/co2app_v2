@@ -1,6 +1,7 @@
-### 📊 Applicazione di Emissioni CO2 - Versione FastAPI + React (v2.0)
-# Visualizzazione interattiva e previsioni delle emissioni di anidride carbonica (CO₂) per paese e periodo. L'app è sviluppata in Python con Flask, Plotly e Prophet ed è progettata per un'esperienza utente elegante e responsiva. APRI QUI -
-# Questa è una **riscrittura completa** dell'applicazione di Emissioni CO2 utilizzando tecnologie moderne: **FastAPI** per il backend e **React** per il frontend.
+# 📊 Applicazione di Emissioni CO2 - Versione FastAPI + React (v2.0)
+## Visualizzazione interattiva e previsioni delle emissioni di anidride carbonica (CO₂) per paese e periodo. L'app è sviluppata in Python con Flask, Plotly e Prophet ed è progettata per un'esperienza utente elegante e responsiva. APRI QUI -
+### Questa è una **riscrittura completa** dell'applicazione di Emissioni CO2 utilizzando tecnologie moderne: **FastAPI** per il backend e **React** per il frontend.
+
 
 ## 🆕 Novità della v2.0 rispetto alla v1.0
 
